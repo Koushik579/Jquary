@@ -1,0 +1,13 @@
+#maincont {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: left;
+}
+#signup {
+  background-color: rgb(80, 138, 246);
+  display: none;
+}
+#login {
+  background-color: rgb(167, 88, 241);
+}
